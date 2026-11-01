@@ -1,0 +1,12 @@
+{
+  "name": "quizlink",
+  "displayName": "QuizLink",
+  "description": "Track your learning journey, everywhere. Turn any topic or your notes into quizzes, flashcards, crosswords and study courses with the hosted QuizLink MCP server.",
+  "version": "1.0.0",
+  "author": { "name": "Quizlink", "email": "support@quizlink.net", "url": "https://quizlink.net" },
+  "homepage": "https://quizlink.net/mcp.html",
+  "repository": "https://github.com/paulnegz/quizlink-mcp",
+  "license": "MIT",
+  "logo": "logo.png",
+  "keywords": ["education", "learning", "quiz", "flashcards", "study"]
+}
