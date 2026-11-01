@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "net.quizlink/quizlink",
+  "title": "QuizLink",
+  "description": "Track your learning journey, everywhere. Turn dead time into skills with quizzes and flashcards.",
+  "websiteUrl": "https://quizlink.net/mcp.html",
+  "version": "1.0.2",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.quizlink.net/stream"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/paulnegz/quizlink-mcp",
+    "source": "github"
+  }
+}
