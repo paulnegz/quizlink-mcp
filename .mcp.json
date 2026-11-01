@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "quizlink": {
+      "type": "http",
+      "url": "https://mcp.quizlink.net/stream"
+    }
+  }
+}
